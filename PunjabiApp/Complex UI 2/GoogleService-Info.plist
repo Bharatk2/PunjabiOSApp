@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>655827425412-gvmm9f7kt8gc935kkc85dthvfa4iusr1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.655827425412-gvmm9f7kt8gc935kkc85dthvfa4iusr1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5Qv0JWGkCMfBuxnZgtraC5RzY8h2joJ8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>655827425412</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>PunjabiCuisine</string>
+	<key>PROJECT_ID</key>
+	<string>punjabiapp-8b0b4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>punjabiapp-8b0b4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:655827425412:ios:e24231ff735b0c248ecad1</string>
+	<key>DATABASE_URL</key>
+	<string>https://punjabiapp-8b0b4.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,245 @@
+[
+    {
+        "id": 1001,
+        "name":"Aloo Gobi Matar",
+        "price": 130,
+        "imageName":"aloo-gobi-matar",
+        "description":"Colifor, papa y chicharo con especias. Colifor, Potato and Green pease in spices.",
+        "category":"vegeterian"
+    },
+    {
+        "id": 1002,
+        "name":"Baingan Bhartha",
+        "price": 140,
+        "imageName":"baingan-bhartha",
+        "description":"Berenjena asada con tomate y cebolla con especias.",
+        "category":"vegeterian"
+        
+    },
+    {
+        "id": 1003,
+        "name":"Chana Masala",
+        "price": 135,
+        "imageName":"chana-masala",
+        "description":"Garbanzo con tomate y cebolla en especias",
+        "category":"vegeterian"
+    },
+    {
+        "id": 1004,
+        "name":"Chole Samosa",
+        "price": 150,
+        "imageName":"chole-samosa",
+        "description":"Platillo a base de garbanzos con empanada de la India.",
+        "category":"vegeterian"
+    },
+    {
+        "id": 1005,
+        "name":"Dal Makhni",
+        "price": 120,
+        "imageName":"dal-makhni",
+        "description":"Lenteja negra y frijol rojo en especias con crema y mantequilla.",
+        "category":"vegeterian"
+        
+    },
+    {
+        "id": 1006,
+        "name":"Kadai Paneer",
+        "price": 155,
+        "imageName":"kadai-paneer",
+        "description":"Queso hindu salteado con cebolla y pimiento.",
+        "category":"vegeterian"
+    },
+    {
+        "id": 1007,
+        "name":"Tandoori Chicken",
+        "price": 220,
+        "imageName":"tandoori-chicken",
+        "description":"Pollo marinado con yogurt y especias asado en el horno Tandoor..",
+        "category":"non-vegeterian"
+        
+    },
+    {
+        "id": 1008,
+        "name":"Chicken Biryani & Raita",
+        "price": 155,
+        "imageName":"chicken-biryani-&-raita",
+        "description":"Pollo con arroz Basmati y especias acompañado con yogurt con especias",
+        "category":"non-vegeterian"
+        
+    },
+    {
+        "id": 1009,
+        "name":"Chicken Tikka Masala",
+        "price": 150,
+        "imageName":"chicken-tikka-masala",
+        "description":"Pechuga de pollo asado en el horno Tandoor en una base de salsa cremosa y especias.",
+        "category":"non-vegeterian"
+        
+    },
+    {
+        "id": 1010,
+        "name":"Butter Chicken",
+        "price": 160,
+        "imageName":"butter-chicken",
+        "description":"Pechuga de pollo en salsa cromosa de mantequilla.",
+        "category":"non-vegeterian"
+        
+    },
+    {
+        "id": 1011,
+        "name":"Nawabi Chicken",
+        "price": 175,
+        "imageName":"nawabi-chicken",
+        "description":"Pollo en salsa cremosa con puré de queso.",
+        "category":"non-vegeterian"
+        
+    },
+    {
+        "id": 1012,
+        "name":"Kadai Chicken",
+        "price": 155,
+        "imageName":"kadai-chicken",
+        "description":"Platillo a base pollo y papas sazonado con especias de nuestro Chef Kumar.",
+        "category":"non-vegeterian"
+        
+    },
+    {
+        "id": 1013,
+        "name":"Goat Biryani y Raita",
+        "price": 160,
+        "imageName":"goat-biryani-y-raita",
+        "description":"Cordero servido con arroz Basmati y especias acompañado con yogurt..",
+        "category":"non-vegeterian"
+        
+    },
+    {
+        "id": 1014,
+        "name":"Goat Curry",
+        "price": 155,
+        "imageName":"goat-curry",
+        "description":"Cordero en curry y especias.",
+        "category":"non-vegeterian"
+        
+    },
+    {
+        "id": 1015,
+        "name":"Beef Seekh Kabab",
+        "price": 199,
+        "imageName":"beef-seekh-kabab",
+        "description":"Brocheta de Res asada en horno Tandoor con especias.",
+        "category":"non-vegeterian"
+        
+    },
+    {
+        "id": 1016,
+        "name":"Shrimp Biryani",
+        "price": 145,
+        "imageName":"shrimp-biryani",
+        "description":"Camarón con arroz Basmati y especias.",
+        "category":"non-vegeterian"
+        
+    },
+    {
+        "id": 1017,
+        "name":"Kadai Shrimp",
+        "price": 145,
+        "imageName":"shrimp-biryani",
+        "description":"Camarón salteado con cebolla y pimientos.",
+        "category":"non-vegeterian"
+        
+    },
+    {
+        "id": 1018,
+        "name":"Chicken Masala",
+        "price": 149,
+        "imageName":"chicken-masala",
+        "description":"Pechuga de pollo en guisado de especies.",
+        "category":"non-vegeterian"
+        
+    },
+    {
+        "id": 1019,
+        "name":"Samosa",
+        "price": 95,
+        "imageName":"samosa",
+        "description":"Orden de 2 piezas de empanadas vegetarianas rellenas de chicharo y papa con especias.",
+        "category":"appetizers"
+        
+    },
+    {
+        "id": 1020,
+        "name":"Pakora",
+        "price": 105,
+        "imageName":"pakora",
+        "description":"Verdura empanizada con harina de garbanzo.",
+        "category":"appetizers"
+        
+    },
+    {
+        "id": 1021,
+        "name":"Garlic Naan",
+        "price": 30,
+        "imageName":"garlic-naan",
+        "description":"Pan de harina de trigo con ajo hecho en Tandoor.",
+        "category":"appetizers"
+        
+    },
+    {
+        "id": 1022,
+        "name":"Arroz Basmati",
+        "price": 55,
+        "imageName":"arroz-basmati",
+        "description":"Arroz de la India con especias.",
+        "category":"appetizers"
+        
+    },
+    {
+        "id": 1023,
+        "name":"Sweet Lassi",
+        "price": 55,
+        "imageName":"lassi",
+        "description":"Malteada hecha con yogurt de la India y miel (Bebida tradicional de Punjab).",
+        "category":"drinks"
+        
+    },
+    {
+        "id": 1024,
+        "name":"Mango Lassi",
+        "price": 55,
+        "imageName":"mango-lassi",
+        "description":"Malteada de yogurt de la India y mango (Bebida tradicional de Punjab).",
+        "category":"drinks"
+        
+    },
+    {
+        "id": 1025,
+        "name":"Salty Lassi",
+        "price": 55,
+        "imageName":"salty-lassi",
+        "description":"Malteada de yogurt de la India con sal negra y especias (Bebida tradicional de Punjab).",
+        "category":"drinks"
+        
+    },
+    {
+        "id": 1026,
+        "name":"Nimbu Paani",
+        "price": 35,
+        "imageName":"salty-lassi",
+        "description":"Limonada con especias de la India.",
+        "category":"drinks"
+        
+    },
+    {
+        "id": 1027,
+        "name":"Té Chai",
+        "price": 30,
+        "imageName":"té-chai",
+        "description":"Té tradicional de la India.",
+        "category":"drinks"
+        
+    },
+          
+    
+    
+]
+
